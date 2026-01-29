@@ -11,7 +11,7 @@ A real-time **CAN bus visualization and diagnostics dashboard** built as an end-
 
 
 
-> ⚠️ This project is a **prototype / proof-of-concept** and has not (yet) been validated on a real vehicle.
+> ⚠️ This project is a **prototype** and is still being validated on real vehicles. It has currently been tested with a Subaru Outback 2014.
 
 ---
 
